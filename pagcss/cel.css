@@ -44,4 +44,18 @@
     }
 
 }
+@media(min-width:200px) and (max-width:768px) {
+    .descriçao p{
+        display: block;
+        color: white;
+        font-size:19px; 
+        height: 70vh;    
+    }
+    .descriçao1 p{
+        display: block;
+        color: white;
+        font-size:19px; 
+        height: 70vh;    
+    }
+}
 
