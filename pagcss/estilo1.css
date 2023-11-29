@@ -51,8 +51,9 @@ ul a{
     transition: .7s;   
 }
 ul a:hover{
-    background-color: rgb(215, 205, 205);
+    background-color: #e6a35c;
     color: black;
+    font-weight: bold;
 }
 main{
     max-width: 1200px;
