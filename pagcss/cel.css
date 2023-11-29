@@ -11,10 +11,10 @@
 @media(min-width:768px) and (max-width: 1200px){
    nav ul{display: flex;} 
    .sobreBanda{height: 120vh;}
-   .descriçao{
+   .descricao{
      display: block;
    }
-   .descriçao p{
+   .descricao p{
     font-size: 25px;
    }
 
@@ -22,21 +22,21 @@
 }
 @media(min-width:1200px) and (max-width:1600px){
     nav ul{display: flex;} 
-    .descriçao p{
+    .descricao p{
         font-size: 25px;
        }
-    .descriçao1 p{
+    .descricao1 p{
         font-size: 25px;
        }
 }
 @media(min-width:300px) and (max-width:768px) {
-    .descriçao p{
+    .descricao p{
         display: block;
         color: white;
         font-size:19px; 
         height: 70vh;    
     }
-    .descriçao1 p{
+    .descricao1 p{
         display: block;
         color: white;
         font-size:19px; 

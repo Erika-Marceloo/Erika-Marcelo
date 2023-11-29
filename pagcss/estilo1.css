@@ -51,9 +51,8 @@ ul a{
     transition: .7s;   
 }
 ul a:hover{
-    background-color: #e6a35c;
+    background-color: rgb(215, 205, 205);
     color: black;
-    font-weight: bold;
 }
 main{
     max-width: 1200px;
@@ -101,14 +100,14 @@ div.popeye{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("img/ErikinhaDVD1.jpg");
+    background-image: url("../img/ErikinhaDVD1.jpg");
     background-attachment: fixed;
     background-position:top center;
     background-size: cover;
     text-align: center;
     align-items: center;
 }
-div.descriçao{
+div.descricao{
     display: block;
     max-width: 1200px;
     height: 50vh;
@@ -123,12 +122,12 @@ div.descriçao{
     text-align: justify;
 
 }
-div.descriçao h3{  
+div.descricao h3{  
     padding-left: 40px;
     font-size: 65px;
     font-weight: bold;
 }
-.descriçao p{
+.descricao p{
     display: block;
     color: white;
     text-indent: 20px;
@@ -139,14 +138,14 @@ div.death{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("img/Erikinha1.jpg");
+    background-image: url("../img/Erikinha1.jpg");
     background-attachment: fixed;
     background-position:center ;
     background-size: cover;
     text-align: center;
     align-items: center;
 }
-div.descriçao1{
+div.descricao1{
     display: block;
     max-width: 1200px;
     height: 50vh;
@@ -160,12 +159,12 @@ div.descriçao1{
     padding: 30px;
     text-align: justify;
 }
-div.descriçao1 h3{  
+div.descricao1 h3{  
     padding-left: 40px;
     font-size: 65px;
     font-weight: bold;
 }
-.descriçao1 p{
+.descricao1 p{
     color: white;
     text-indent: 20px;
     padding-bottom: 30px;
@@ -175,14 +174,14 @@ div.markim{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("img/Erikinha2.jpg");
+    background-image: url("../img/Erikinha2.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     text-align: center;
     align-items: center;
 }
-div.descriçao2{
+div.descricao2{
     display: block;
     max-width: 1200px;
     height: 50vh;
@@ -196,12 +195,12 @@ div.descriçao2{
     padding: 30px;
     text-align: justify;
 }
-div.descriçao2 h3{  
+div.descricao2 h3{  
     padding-left: 40px;
     font-size: 65px;
     font-weight: bold;
 }
-.descriçao2 p{
+.descricao2 p{
     color: white;
     text-indent: 20px;
     padding-bottom: 30px;
@@ -211,14 +210,14 @@ div.ely{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("img/ErikinhaCorte1.jpg");
+    background-image: url("../img/ErikinhaCorte1.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     text-align: center;
     align-items: center;
 }
-div.descriçao3{
+div.descricao3{
     display: block;
     max-width: 1200px;
     height: 50vh;
@@ -232,12 +231,12 @@ div.descriçao3{
     padding: 30px;
     text-align: justify;
 }
-div.descriçao3 h3{
+div.descricao3 h3{
     padding-left: 40px;
     font-size: 65px;
     font-weight: bold;
 }
-div.descriçao3 p{
+div.descricao3 p{
     color: white;
     text-indent: 20px;
     padding-bottom: 30px;
