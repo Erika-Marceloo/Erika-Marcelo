@@ -101,7 +101,7 @@ div.popeye{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("../img/ErikinhaDVD1.jpg");
+    background-image: url("img/ErikinhaDVD1.jpg");
     background-attachment: fixed;
     background-position:top center;
     background-size: cover;
@@ -139,7 +139,7 @@ div.death{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("../img/Erikinha1.jpg");
+    background-image: url("img/Erikinha1.jpg");
     background-attachment: fixed;
     background-position:center ;
     background-size: cover;
@@ -175,7 +175,7 @@ div.markim{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("../img/Erikinha2.jpg");
+    background-image: url("img/Erikinha2.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -211,7 +211,7 @@ div.ely{
     height: 100vh;
     background-color: rgb(215, 205, 205);
     margin:auto;
-    background-image: url("../img/ErikinhaCorte1.jpg");
+    background-image: url("img/ErikinhaCorte1.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
