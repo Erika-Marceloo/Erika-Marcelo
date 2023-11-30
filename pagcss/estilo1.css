@@ -23,6 +23,7 @@ header{
     position: fixed;
     z-index: 99999;
     top: 0;
+    margin-right: 100px;
 }
 nav{
     display: none;
