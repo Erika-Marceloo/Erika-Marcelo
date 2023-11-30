@@ -36,6 +36,9 @@ nav ul{
     margin-right: 20px;
     text-align: center;
     align-items: center;
+    z-index: 99999;
+    top: 0;
+    background-color: #523d26;
 }
 ul a{
     color: rgb(215, 205, 205);
