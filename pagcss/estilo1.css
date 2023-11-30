@@ -23,7 +23,6 @@ header{
     position: fixed;
     z-index: 99999;
     top: 0;
-    margin-right: 100px;
 }
 nav{
     display: none;
@@ -40,6 +39,9 @@ nav ul{
     z-index: 99999;
     top: 0;
     background-color: #523d26;
+}
+nav ul:hover{
+    opacity: 0.50;
 }
 ul a{
     color: rgb(215, 205, 205);
